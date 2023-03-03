@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828836565226",
+    "project_id": "urban-6b5e0",
+    "storage_bucket": "urban-6b5e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828836565226:android:8c3fba2c06db0258c28793",
+        "android_client_info": {
+          "package_name": "com.example.tudaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828836565226-cllc4tgr31rg9c2628n01be244hurbc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tudaapp",
+            "certificate_hash": "21e31d98162adab655f9b1e319195eb69e23cabf"
+          }
+        },
+        {
+          "client_id": "828836565226-dmnuv1hvvjtd6jjvu3p0qkni9cfr36ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAge-bu2SQ01PPpB56J1Hx6vZOakNl7hmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828836565226-dmnuv1hvvjtd6jjvu3p0qkni9cfr36ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

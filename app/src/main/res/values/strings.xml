@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tuda App</string>
+    <string name="default_notification_channel_id">Tuda </string>
+    <string name="tirupati_urban_development_authority">Tirupati Urban Development Authority</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remind_me">Remind Me</string>
+    <string name="next">Next</string>
+</resources>
